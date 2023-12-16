@@ -1,0 +1,43 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+/* SKILLS */
+.skills {
+    margin-top: -100px;
+}
+
+.skills__contentLeft {
+    border-radius: 15px 0 0 15px;
+    box-shadow: 0 5px 0 gray;
+}
+
+.skills__contentRight {
+    border-radius: 0 15px 15px 0;
+    box-shadow: 0 5px 0 gray;
+}
+
+.skills__list {
+    list-style: none;
+    padding: 0;
+}
+
+.skills__icon {
+    color: #0d6efd;
+    font-size: 50px;
+}

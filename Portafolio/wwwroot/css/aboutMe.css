@@ -1,0 +1,14 @@
+﻿.aboutMe__content {
+    margin: 5rem 0 10rem 0;
+    color: #fff;
+}
+
+.aboutMe__content h1 {
+    margin-bottom: 2rem;
+}
+
+.aboutMe__content p {
+    font-family: sans-serif;
+    line-height: 1.5;
+    font-size: 1.25rem;
+}
